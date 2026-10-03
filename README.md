@@ -176,8 +176,8 @@ ORDER BY Occupation, Gender;
 ---
 
 ## 📈 Key Takeaways for Corporate Wellness Strategy
-  1. **Focus Beyond Movement:** Physical activity (steps) isn't a complete fix for poor health outcomes when shift disruption and high stress are present.
-  2. **Targeted Interventions:** High-stress commercial roles (Sales Reps) require workload/recovery management, while healthcare roles require shift recovery support.
-  3. **Data Literacy Value:** Demonstrates how multi-variable SQL aggregation reveals insights that surface-level averages miss.
+  **1. Focus Beyond Movement:** Physical activity (steps) isn't a complete fix for poor health outcomes when shift disruption and high stress are present.
+  **2. Targeted Interventions:** High-stress commercial roles (Sales Reps) require workload/recovery management, while healthcare roles require shift recovery support.
+  **3. Data Literacy Value:** Demonstrates how multi-variable SQL aggregation reveals insights that surface-level averages miss.
 
 ---
